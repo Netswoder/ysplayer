@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "purpose": "synthetic_example_not_a_real_catalog",
+  "works": [
+    {
+      "rj": "RJ99000001",
+      "circles": [
+        {
+          "id": "RG99001",
+          "name": "Example Circle"
+        }
+      ],
+      "voice_credits": [
+        {
+          "credited_name": "Actor A"
+        },
+        {
+          "credited_name": "Actor B"
+        }
+      ]
+    }
+  ]
+}

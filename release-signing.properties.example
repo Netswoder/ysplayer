@@ -1,0 +1,6 @@
+# Copy to private-signing/release.properties, then enter your own secret values.
+# Never commit the real file or the keystore.
+storeFile=private-signing/ysplayer-release.p12
+storePassword=CHANGE_ME
+keyAlias=ysplayer
+keyPassword=CHANGE_ME
