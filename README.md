@@ -1,5 +1,5 @@
 # 音声书架 / YsPlayer
-
+纯粹的VibeCoding产物
 面向本地音声收藏的原生 Android 播放器。最低 Android 10（API 29）；Kotlin、Jetpack Compose、Room、Media3。核心播放流程离线运行。
 
 ## 功能
